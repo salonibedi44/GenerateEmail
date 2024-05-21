@@ -8,3 +8,5 @@ About Claude 3 Opus:
 - 200K context window
 
 
+Deployed with the help of: https://kshitijkutumbe.medium.com/how-to-create-and-deploy-a-streamlit-app-on-aws-for-data-science-projects-93206d0b746e
+
